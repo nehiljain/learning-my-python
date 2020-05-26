@@ -1,0 +1,2 @@
+"What is tuple unpacking?","Multiple assignment. For example: x, y = 1, 2."
+"How to make a object work with multiple assigment? For example: x, y = Point(1, 2)","Make it a an iterable. Like def __iter__(): yield"
