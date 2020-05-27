@@ -1,2 +1,7 @@
+# FRONT	BACK
 "What is tuple unpacking?","Multiple assignment. For example: x, y = 1, 2."
 "How to make a object work with multiple assigment? For example: x, y = Point(1, 2)","Make it a an iterable. Like def __iter__(): yield"
+"What is the formula for polynomial hash code? What is a potential problem of this function?","Horner's rule, xn−1 +a(xn−2 +a(xn−3 +···+a(x2 +a(x1 +ax0))···)). The repr overflows but we ignore it"
+"How does cyclic shift hash code work?","Choose 5 or x number of bits to shift you sum all the bits of the string representation"
+"What type of objects are hashable in python?","Immutable only hash(x)"
+"Are user defined classes hashable?","No by default in Python. Custom implementation can be done using __hash__"
