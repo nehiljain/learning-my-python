@@ -17,3 +17,4 @@
 "What can be done when the load factor goes above the specified threshold? For example: λ < 0.9 for separate chaining, λ < 2/3 for python implementation", "Resize the table"
 "What are the ways to represent -ve numbers in binary", "2's complement, 1's complement, sign and magnitude"
 "What are the two properties of 2's complement which makes it a better choice?", "There is only one way to represent 0, basic arithmetic is the same for positive or negative numbers"
+"Is this correct? binary(1011) == int(11)", "It depends on the signed or unsigned int type of the original number"
