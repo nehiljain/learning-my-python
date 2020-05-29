@@ -22,3 +22,4 @@
 "Left shift in binary is _____ in decimal", "multiplication by 2"
 "Logical right shift in binary is ________ in decimal", "division by 2 without the remainder"
 "Which bit shift operators does Python support? its 2/3", "Left and Arithmetic Right, not Logical Right"
+"How does Python handle Integer Overflow?", "Python allocates more space to accomodate the overlow"
