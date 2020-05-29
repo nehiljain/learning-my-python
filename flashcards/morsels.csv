@@ -18,3 +18,7 @@
 "What are the ways to represent -ve numbers in binary", "2's complement, 1's complement, sign and magnitude"
 "What are the two properties of 2's complement which makes it a better choice?", "There is only one way to represent 0, basic arithmetic is the same for positive or negative numbers"
 "Is this correct? binary(1011) == int(11)", "It depends on the signed or unsigned int type of the original number"
+"What are three types of bit shifts?", "Left, Logical Right, Arithmetic Right"
+"Left shift in binary is _____ in decimal", "multiplication by 2"
+"Logical right shift in binary is ________ in decimal", "division by 2 without the remainder"
+"Which bit shift operators does Python support? its 2/3", "Left and Arithmetic Right, not Logical Right"
