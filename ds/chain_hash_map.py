@@ -42,7 +42,7 @@ class ChainHashMap(HashMapBase):
         self._n -= 1
  
     def __iter__(self):
-        pass
-
-
-
+        for bucket in self._table:
+            if bucket:
+                for key in bucket:
+                    yield key
