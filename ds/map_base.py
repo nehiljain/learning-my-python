@@ -3,21 +3,22 @@ from collections import MutableMapping
 
 class MapBase(MutableMapping):
     def __init__(self):
-        pass
+      pass
 
     def __len__(self):
-        pass
+      pass
 
     def __setitem__(self, key, value):
-        pass
+      pass
 
     def __getitem__(self, key):
-        pass
+      pass
 
     def __eq__(self):
-        pass
+      pass
 
     def __lt__(self):
-        pass
+      pass
 
-    def __ne__(self)
+    def __ne__(self):
+      pass
