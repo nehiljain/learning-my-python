@@ -24,3 +24,5 @@
 "Logical right shift in binary is ________ in decimal", "division by 2 without the remainder"
 "Which bit shift operators does Python support? its 2/3", "Left and Arithmetic Right, not Logical Right"
 "How does Python handle Integer Overflow?", "Python allocates more space to accomodate the overlow"
+"Define: Edges, Vertices, Di-Graph, Undi-Graph, Adjacent Vertices, Degree(v)", "Edge: pair of vertices, Vertice: node, Di-graph: Directed graph where edges are all directed. Directed Edges mean (u, v) != (v, u). The pair is ordered. Adjacent Vertices: Vertices u and v are adjacent if there is an edge connecting them. Degree: Number of edges connected to the vertex"
+"What is a simple graph?", "A graph without a self-loop or parallel edges is a simple graph. The edges is a set"
