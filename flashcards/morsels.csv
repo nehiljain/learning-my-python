@@ -24,3 +24,7 @@
 "Logical right shift in binary is ________ in decimal", "division by 2 without the remainder"
 "Which bit shift operators does Python support? its 2/3", "Left and Arithmetic Right, not Logical Right"
 "How does Python handle Integer Overflow?", "Python allocates more space to accomodate the overlow"
+"What are iterables and sequences?", "Iterables are anything that we can for loop over, Sequences are iterables with index 0 to length -1"
+"Can we manually loop over set using while loop?", "Nope, it only works on sequences"
+"Generator function vs Generator Expression vs Iterator Class, which is the best option?", "generator functions and almost never custom iterator classes. Generator expressions for succint work with lists"
+"How to check isinstance of 2 types?", "isinstance(your_obj, (str, bytes)"

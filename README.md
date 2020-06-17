@@ -867,6 +867,11 @@ Graphs can be used to represent many problems in computer science, so this secti
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
 - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
+- [ ] **Database Modeling**
+  - [ ] [UML Course - Stanford](https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YDB-UML0001+2T2020/course/)
+  - [ ] [Indexes and Transactions](https://www.edx.org/course/databases-10-indexes-and-transactions)
+  - [ ] [Developing High Quality Models](https://www.scribd.com/book/282539447/Developing-High-Quality-Data-Models)
+  - [ ] [Building Scalable Data Warehouse](https://www.scribd.com/book/282667474/Building-a-Scalable-Data-Warehouse-with-Data-Vault-2-0)
 - [ ] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 - [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below.
 - [ ] [How to ace a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
