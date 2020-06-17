@@ -25,6 +25,10 @@ class DeepFlattenTests(unittest.TestCase):
         self.assertIterableEqual(deep_flatten([[()]]), [])
 
     # To test the Bonus part of this exercise, comment out the following line
+<<<<<<< HEAD
+=======
+    @unittest.expectedFailure
+>>>>>>> 679ff6bb319497b2afeaaa57557d95dbea6b5284
     def test_other_iterables(self):
         self.assertIterableEqual(
             deep_flatten((n, (n**3, n**2)) for n in [2, 3]),
@@ -37,6 +41,10 @@ class DeepFlattenTests(unittest.TestCase):
         )
 
     # To test the Bonus part of this exercise, comment out the following line
+<<<<<<< HEAD
+=======
+    @unittest.expectedFailure
+>>>>>>> 679ff6bb319497b2afeaaa57557d95dbea6b5284
     def test_returns_iterator(self):
         self.assertEqual(next(deep_flatten([0, [1, [2, 3]]])), 0)
 
@@ -61,6 +69,7 @@ class DeepFlattenTests(unittest.TestCase):
         self.assertEqual(next(deep_flatten(squares)), 4)
 
     # To test the Bonus part of this exercise, comment out the following line
+<<<<<<< HEAD
     def test_flatten_with_strings(self):
         inputs = [
             ['cats', ['carl', 'cate']],
@@ -68,6 +77,16 @@ class DeepFlattenTests(unittest.TestCase):
         ]
         outputs = ['cats', 'carl', 'cate', 'dogs', 'darlene', 'doug']
         self.assertEqual(list(deep_flatten(inputs)), outputs)
+=======
+    # @unittest.expectedFailure
+    # def test_flatten_with_strings(self):
+    #     inputs = [
+    #         ['cats', ['carl', 'cate']],
+    #         ['dogs', ['darlene', 'doug']],
+    #     ]
+    #     outputs = ['cats', 'carl', 'cate', 'dogs', 'darlene', 'doug']
+    #     self.assertEqual(list(deep_flatten(inputs)), outputs)
+>>>>>>> 679ff6bb319497b2afeaaa57557d95dbea6b5284
 
 
 if __name__ == "__main__":
@@ -75,4 +94,8 @@ if __name__ == "__main__":
     import sys
     if sys.version_info < (3,):
         sys.exit("Running {}.  Python 3 required.".format(python_version()))
+<<<<<<< HEAD
     unittest.main(verbosity=2)
+=======
+    unittest.main(verbosity=2)
+>>>>>>> 679ff6bb319497b2afeaaa57557d95dbea6b5284

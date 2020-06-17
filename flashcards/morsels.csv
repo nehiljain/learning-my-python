@@ -28,3 +28,5 @@
 "Can we manually loop over set using while loop?", "Nope, it only works on sequences"
 "Generator function vs Generator Expression vs Iterator Class, which is the best option?", "generator functions and almost never custom iterator classes. Generator expressions for succint work with lists"
 "How to check isinstance of 2 types?", "isinstance(your_obj, (str, bytes)"
+"Define: Edges, Vertices, Di-Graph, Undi-Graph, Adjacent Vertices, Degree(v)", "Edge: pair of vertices, Vertice: node, Di-graph: Directed graph where edges are all directed. Directed Edges mean (u, v) != (v, u). The pair is ordered. Adjacent Vertices: Vertices u and v are adjacent if there is an edge connecting them. Degree: Number of edges connected to the vertex"
+"What is a simple graph?", "A graph without a self-loop or parallel edges is a simple graph. The edges is a set"

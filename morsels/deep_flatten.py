@@ -6,5 +6,3 @@ def deep_flatten(inp):
       yield from deep_flatten(item)
     else:
       yield item
-
-

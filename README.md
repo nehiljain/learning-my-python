@@ -1076,11 +1076,11 @@ Mock Interviews:
 - [ ] https://leetcode.com/problems/partition-equal-subset-sum/
 - [X] https://leetcode.com/problems/valid-palindrome-ii/
 - [ ] https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-You are given a mn grid. You are asked to generate k mines on this grid randomly. Each cell should have equal probability of k / mn of being chosen. Your algorithm should run in O(m) time.
-https://leetcode.com/problems/continuous-subarray-sum/
+- [ ] You are given a mn grid. You are asked to generate k mines on this grid randomly. Each cell should have equal probability of k / mn of being chosen. Your algorithm should run in O(m) time.
+- [ ] https://leetcode.com/problems/continuous-subarray-sum/
 (Given a list of positive numbers and a target integer k, write a function to check if the array has a continuous subarray which sums to k.)
-https://leetcode.com/problems/verifying-an-alien-dictionary/
-https://leetcode.com/problems/alien-dictionary/
+- [ ] https://leetcode.com/problems/verifying-an-alien-dictionary/
+- [ ] https://leetcode.com/problems/alien-dictionary/
 https://leetcode.com/problems/course-schedule/
 https://leetcode.com/problems/interval-list-intersections/
 https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
