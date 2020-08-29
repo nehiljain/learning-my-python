@@ -867,6 +867,10 @@ Graphs can be used to represent many problems in computer science, so this secti
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
 - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
+- [ ] ** API Design **
+  - [X] [Rest API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+  - [ ] [Hackrnoon API Design](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+  - [ ] [Udacity Restful API](https://www.udacity.com/course/designing-restful-apis--ud388)
 - [ ] **Database Modeling**
   - [ ] [UML Course - Stanford](https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YDB-UML0001+2T2020/course/)
   - [ ] [Indexes and Transactions](https://www.edx.org/course/databases-10-indexes-and-transactions)
